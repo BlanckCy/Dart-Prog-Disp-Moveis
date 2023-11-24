@@ -1,6 +1,9 @@
 # exibir_fotos_p2
 
-A new Flutter project.
+Ana Paula Chaves Brandi          - RA: 2040482123060 
+Daniela Diogenes Bevenuto        - RA: 2040482123017 
+João Victor Peixoto Jacinto Dias - RA: 2040482123011 
+Tamiris do Nascimento Santos     - RA: 2040482123051
 
 ## Getting Started
 
